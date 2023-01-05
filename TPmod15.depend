@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672557557 source:c:\smt3\pratikum std\tpmod15\tpmod15\tree.cpp
+	"tree.h"
+
+1672557557 c:\smt3\pratikum std\tpmod15\tpmod15\tree.h
+	<iostream>
+
+1672570431 source:c:\smt3\pratikum std\tpmod15\tpmod15\main.cpp
+	<iostream>
+	"tree.h"
+
